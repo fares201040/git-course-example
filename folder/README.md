@@ -1,3 +1,1 @@
 hi
-goodbye
-docs
